@@ -7,3 +7,8 @@ h1 {
   position: center;
   font-height: 20;
 }
+
+a {
+  color:#ffffff;
+  text-decoration: none;
+}
