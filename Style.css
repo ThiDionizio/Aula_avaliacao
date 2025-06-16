@@ -2,3 +2,8 @@ body {
   background-color: #333333;
   color: #ffffff;
 }
+
+h1 {
+  Display: center;
+  font-height: 20;
+}
