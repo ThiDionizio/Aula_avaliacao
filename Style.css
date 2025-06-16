@@ -4,6 +4,6 @@ body {
 }
 
 h1 {
-  Display: center;
+  position: center;
   font-height: 20;
 }
